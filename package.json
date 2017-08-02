@@ -1,0 +1,28 @@
+{
+  "name": "intellij-idea-settings",
+  "version": "0.1.0",
+  "description": "Utils to manage Intellij IDEA settings via version control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idododu/intellij-idea-settings.git"
+  },
+  "keywords": [
+    "Intellij IDEA",
+    "Intellij IDEA settings",
+    "Intellij IDEA plugin"
+  ],
+  "author": "Dod Du",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idododu/intellij-idea-settings/issues"
+  },
+  "homepage": "https://github.com/idododu/intellij-idea-settings#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-zip": "^4.0.0"
+  }
+}
